@@ -2,7 +2,7 @@
 A script to fetch Dhiraagu Fiber or ADSL connection IP and send to no-ip to assign ip to a domain name.
 
 ## Requirements
-`linux`\
+`bash`\
 `python3`\
 `requests` 
 
