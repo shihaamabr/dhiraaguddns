@@ -12,7 +12,7 @@ A script to fetch Dhiraagu Fiber or ADSL connection IP and send to no-ip to assi
 git clone https://github.com/shihaamabr/dhiraaguddns.git
 cd dhiraaguddns
 ```
-Edit the creds in ipupdate.py 
+Edit the creds in ipupdate.py\
 Give executable permissions for manual.sh and auto.sh 
 ```bash
 chmod +x manual.sh
