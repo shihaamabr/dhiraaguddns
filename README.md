@@ -18,7 +18,7 @@ chmod +x manual.sh
 chmod +x auto.sh
 ```
 
-set a chronjob for `./auto.sh` for automatic update
+set a chronjob for `./auto.sh` for automatic update/
 `./manual.sh` if you needed to trigger update manually
 
 `auto.sh` include path for pythin3.6 `/usr/bin/python3.6` edit to your path if not working.
